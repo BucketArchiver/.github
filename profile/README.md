@@ -5,7 +5,7 @@
 
 # Why it rocks
 Rocks: 
-🛑 No always-on EC2 
-🛡️ In-AWS ops + ☁️-native 📊 Metrics
-🆓 14-day trial! 
-👂 We're all ears for feedback!
+- 🛑 No always-on EC2 
+- 🛡️ In-AWS ops + ☁️-native 📊 Metrics
+- 🆓 14-day trial! 
+- 👂 We're all ears for feedback!
